@@ -1,2 +1,1 @@
-# Daphoke.github.io
-Starting Website
+# Daphoke.github.io V.2

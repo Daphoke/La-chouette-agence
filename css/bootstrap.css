@@ -229,9 +229,7 @@ th {
     padding: 0
 }
 
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
-
-/* Modification */
+/* Modification V.2 */
 .btn-group-vertical>.btn-group:after,
 .btn-group-vertical>.btn-group:before,
 .btn-toolbar:after,
@@ -299,7 +297,7 @@ label {
     font-weight: 700
 }
 }
-/* Modification END */
+/* Modification V.2 END */
 
 @media print {
     *,
